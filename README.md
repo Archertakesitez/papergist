@@ -1,5 +1,5 @@
 # 🧠 Paper Gist: AI Research Paper Summarization Tool
-> [**Paper**]([https://drive.google.com/file/d/1EUnTP8E9paZQn6ERtoMdSVkU1R0cOo92/view?usp=sharing](https://archertakesitez.github.io/static/assets/papers/PaperGist.pdf))
+> [**Paper**](https://archertakesitez.github.io/static/assets/papers/PaperGist.pdf)
 ## 👥 Authors
 
 Built by:
