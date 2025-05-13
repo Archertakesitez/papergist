@@ -1,4 +1,4 @@
-# 🧠 Paper Gist: AI Research Paper Summarization Tool
+# 🧠 Paper Gist: A Cost-Efficient Cloud-Native Research Paper Summarization Platform
 > [**Paper**](https://archertakesitez.github.io/static/assets/papers/PaperGist.pdf)
 ## 👥 Authors
 
