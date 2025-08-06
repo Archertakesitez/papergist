@@ -1,5 +1,5 @@
 # 🧠 Paper Gist: A Cost-Efficient Cloud-Native Research Paper Summarization Platform
-> [**Paper**](https://archertakesitez.github.io/static/assets/papers/PaperGist.pdf)
+> [**Paper**](https://archertakesitez.github.io/static/assets/papers/PaperGist.pdf) <br>
 > [**Video**](https://youtu.be/nkafh2PRS10)
 ## 👥 Authors
 
